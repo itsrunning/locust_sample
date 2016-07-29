@@ -1,0 +1,8 @@
+# Python compiled files
+*.pyc
+
+# Python cache folder
+__pycache__/
+
+# Python version
+.python-version
